@@ -1,0 +1,108 @@
+body {
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    Arial,
+    sans-serif;
+  background-color: #f8f7f4;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  color: #000000;
+}
+
+h1 {
+  font-size: clamp(2.3rem, 4vw, 3.5rem);
+  line-height: 0.96;
+  letter-spacing: -0.065em;
+}
+
+h2 {
+  font-size: clamp(1.7rem, 3vw, 2.6rem);
+  line-height: 1;
+  letter-spacing: -0.045em;
+}
+
+h3,
+h4,
+.navbar {
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.navbar {
+  background-color: #e8ece8;
+  padding: 15px 20px;
+}
+.profile-image {
+  width: 250px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 20%;
+}
+
+.navbar-brand {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+.flag-container {
+  text-align: center;
+  padding: 10px;
+}
+
+.journey-flag {
+  max-width: 100%;
+  height: 130px;
+  object-fit: contain;
+}
+
+.hero-section {
+  min-height: 40vh; /* 40% of the height of the browser viewport */
+}
+
+.journey-button {
+  background-color: #4f6f5f;
+  border-color: #4f6f5f;
+}
+
+.journey-button:hover {
+  background-color: #3f5b4d;
+  border-color: #3f5b4d;
+}
+
+.journey-details {
+  border-left: 5px solid #4f6f5f;
+}
+
+#journey-title {
+  color: #000000;
+}
+
+footer {
+  margin-top: 100px;
+}
+
+.footer-link {
+  color: #4f6f5f;
+  border: 1px solid #4f6f5f;
+}
+
+.footer-link:hover {
+  color: white;
+  background-color: #4f6f5f;
+}
+
+.experience-intro {
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+footer .container {
+  border-top: 1px solid;
+  padding-top: 20px;
+}
