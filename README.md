@@ -80,7 +80,7 @@ The website is also publicly available through GitHub Pages:
 https://yongt22.github.io/P1-MyHomepage/
 
 ## Screenshot
-TODO: Add a screenshot of the homepage here.
+![Demo of Thai Ken Yong Personal Homepage](images/Screenshot.gif)
 
 ## Demo Video
 TODO: Add a short demo video or walkthrough here.
