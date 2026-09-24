@@ -24,6 +24,13 @@ Course Link: https://johnguerra.co/classes/webDevelopment_online_fall_2026/
 - Presentation (Google Slides): https://docs.google.com/presentation/d/1kSBxDpg61QXuLer6170vcS_WKcWZCB46TQhLVu0RnYE/edit?usp=sharing
 - Video Demonstration: https://youtu.be/igSzgIBO_kQ
 
+### Design Document
+
+The project design document includes the project description, user personas,
+user stories, requirements, site map, visual design, technologies, and mockups.
+
+[View Design Document](./docs/Project-1-Design-Document.pdf)
+
 ## Technologies Used
 
 - HTML5
