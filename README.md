@@ -20,9 +20,10 @@ Course Link: https://johnguerra.co/classes/webDevelopment_online_fall_2026/
 
 ## Submission URL
 
-- Deployed URL (GitHub Pages): https://yongt22.github.io/P1-MyHomepage/
+- Website Published URL (GitHub Pages): https://yongt22.github.io/P1-MyHomepage/
+- Website Demonstration video: https://youtu.be/igSzgIBO_kQ
 - Presentation (Google Slides): https://docs.google.com/presentation/d/1kSBxDpg61QXuLer6170vcS_WKcWZCB46TQhLVu0RnYE/edit?usp=sharing
-- Video Demonstration: https://youtu.be/igSzgIBO_kQ
+- Presentation video: https://youtu.be/1ZEOmhp-Tt8
 
 ### Design Document
 
@@ -94,12 +95,6 @@ The website contains three main pages:
 - `index.html` — Home - My introduction
 - `experience.html` — Experience & Skills - Working experience, skills, education and certificates
 - `interest.html` — Personal Interest - My baking pictures from my Instagram account. This is AI generated HTML page
-
-### 4. View the deployed website
-
-The website is also publicly available through GitHub Pages:
-
-https://yongt22.github.io/P1-MyHomepage/
 
 ## Screenshot
 
