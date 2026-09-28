@@ -86,7 +86,7 @@ h4,
 footer {
   margin-top: 100px;
 }
-
+/* I don't see this used in any of the html pages so it could be removed. */
 .footer-link {
   color: #4f6f5f;
   border: 1px solid #4f6f5f;
