@@ -6,6 +6,8 @@ const journeyDescription = document.querySelector("#journey-description");
 for (let i = 0; i < journeyButtons.length; i++) {
   journeyButtons[i].addEventListener("click", () => {
     const country = journeyButtons[i].dataset.country;
+    /* This works, but I think a lookup object keyed by country would be better here instead of 
+    duplicating logic for each country. Would be good for scalability if more countries get added later. */
     if (country === "malaysia") {
       journeyTitle.textContent = "Malaysia Journey";
       journeyDescription.textContent =
